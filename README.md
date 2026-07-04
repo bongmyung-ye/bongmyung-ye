@@ -6,16 +6,16 @@
 
 <div>
 
-<img align="right" width="450" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1418997178294079530/1523097396081459270/rounded-in-photoretrica.png?ex=6a4ade7d&is=6a498cfd&hm=887a600727c4cf80a6240e611fe788b9a2c87e48b1cd6b8f242d7193291c4e78&"/>
+<img align="right" width="400" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1418997178294079530/1523097396081459270/rounded-in-photoretrica.png?ex=6a4ade7d&is=6a498cfd&hm=887a600727c4cf80a6240e611fe788b9a2c87e48b1cd6b8f242d7193291c4e78&"/>
 
 <h2> / ABOUT ME /</h2>
 
-- **웹 서비스, 자동화 도구, Discord 기반 시스템**을 개발하고 있습니다.
-- **TypeScript와 Node.js**를 중심으로 백엔드 구조를 설계하고 구현합니다.
-- **통계 데이터, 활동량 추적, 시각화 카드/차트** 기능을 만들고 있습니다.
-- **Ubuntu VPS, PM2, 커스텀 도메인**을 활용해 직접 배포하고 운영합니다.
-- **유지보수성, 안정성, 실제 사용성**을 중요하게 생각하며 프로젝트를 개선합니다.
-- 주로 **비공개 저장소와 커뮤니티 중심 프로젝트**에서 활발히 작업하고 있습니다.
+- **웹 서비스 · 자동화 도구 · Discord 시스템**을 개발합니다.
+- **TypeScript · Node.js** 기반 백엔드 구조를 설계합니다.
+- **통계 데이터 · 활동 추적 · 시각화 카드**를 만듭니다.
+- **Ubuntu VPS · PM2 · 커스텀 도메인**으로 배포합니다.
+- **유지보수성 · 안정성 · 실제 사용성**을 중요하게 생각합니다.
+- 주로 **비공개 저장소와 커뮤니티 프로젝트**에서 작업합니다.
 
 <h2> / CURRENT SKILLS / </h2>
 
