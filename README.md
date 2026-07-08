@@ -66,7 +66,7 @@
 <h2 align="center"> / DEVELOPMENT ACTIVITY / </h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bongmyung-ye&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bongmyung-ye&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph&v=20260708" alt="GitHub activity graph" />
 </p>
 
 ---
