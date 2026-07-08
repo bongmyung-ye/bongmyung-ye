@@ -5,17 +5,16 @@
 </p>
 
 <div>
+  <img align="right" width="400" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1418997178294079530/1523097396081459270/rounded-in-photoretrica.png?ex=6a4ade7d&is=6a498cfd&hm=887a600727c4cf80a6240e611fe788b9a2c87e48b1cd6b8f242d7193291c4e78&" />
 
-<img align="right" width="400" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1418997178294079530/1523097396081459270/rounded-in-photoretrica.png?ex=6a4ade7d&is=6a498cfd&hm=887a600727c4cf80a6240e611fe788b9a2c87e48b1cd6b8f242d7193291c4e78&"/>
+  <h2> / ABOUT ME / </h2>
 
-<h2> / ABOUT ME /</h2>
-
-- **웹 서비스 · 자동화 도구 · Discord 시스템**을 개발합니다.
-- **TypeScript · Node.js** 기반 백엔드 구조를 설계합니다.
-- **통계 데이터 · 활동 추적 · 시각화 카드**를 만듭니다.
-- **Ubuntu VPS · PM2 · 커스텀 도메인**으로 배포합니다.
-- **유지보수성 · 안정성 · 실제 사용성**을 중요하게 생각합니다.
-- 주로 **비공개 저장소와 커뮤니티 프로젝트**에서 작업합니다.
+- 커뮤니티 운영에 필요한 **Discord 봇, 자동화 기능, 웹 도구** 개발
+- **TypeScript · Node.js** 기반의 명령어 처리, 상태 관리, 서버 연동 구현
+- **Next.js · React**로 프로젝트 페이지와 간단한 웹 서비스를 제작하고 배포
+- **Ubuntu VPS · PM2 · DNS** 환경에서 서비스 배포와 운영 경험
+- 로그, 상태 확인, 통계, 활동 추적처럼 실제 운영에 필요한 기능을 자주 다룸
+- **PHP 백엔드, 보안 분석, 리버스 엔지니어링** 관련 기록도 조금씩 정리 중
 
 <h2> / CURRENT SKILLS / </h2>
 
@@ -41,17 +40,35 @@
 
 - <h4> deployment & operations </h4>
 
-    <img src="https://img.shields.io/badge/Ubuntu_VPS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu vps" />
-    <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="pm2" />
-    <img src="https://img.shields.io/badge/SSH-222222?style=for-the-badge&logo=gnubash&logoColor=white" alt="ssh" />
-    <img src="https://img.shields.io/badge/DNS-111111?style=for-the-badge&logo=cloudflare&logoColor=white" alt="dns" />
+  <img src="https://img.shields.io/badge/Ubuntu_VPS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu vps" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="pm2" />
+  <img src="https://img.shields.io/badge/SSH-222222?style=for-the-badge&logo=gnubash&logoColor=white" alt="ssh" />
+  <img src="https://img.shields.io/badge/DNS-111111?style=for-the-badge&logo=cloudflare&logoColor=white" alt="dns" />
 
-  </br></br>
+<br /><br />
+
   <div align="right">
-  <a href="https://www.youtube.com/@LoFi_TOKYOCITY">Image by  chu</a>
-    </div>
-    </div>
+    <a href="https://discord.com/">ANYTALK</a>
+  </div>
+ </div>
+
+<p align="right">
+  <a href="https://discord.gg/b8wQHRUjaN">
+    <img src="https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
+  </a>
+  <a href="https://crawlblog.xyz">
+    <img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" />
+  </a>
+</p>
+
+<br clear="both" />
+
+<h2 align="center"> / DEVELOPMENT ACTIVITY / </h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bongmyung-ye&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+</p>
 
 ---
 
-Last Edited on: 07/05/2026
+Last Edited on: 07/08/2026
