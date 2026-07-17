@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <a href="https://crawlblog.xyz">
     <img src="./assets/crawl-banner.png" alt="Crawl Blog" />
   </a>
@@ -6,11 +6,11 @@
 
 <div>
   <img
-  align="right"
-  width="350"
-  src="./assets/profile-character.png"
-  alt="Profile character"
-/>
+    align="right"
+    width="350"
+    src="./assets/profile-character.png"
+    alt="Profile character"
+  />
 
   <h2> / ABOUT ME / </h2>
 
@@ -18,6 +18,8 @@
 - **TypeScript · Node.js** 기반 명령 처리와 서버 연동 기능을 구현
 - **React · Next.js** 기반 반응형 웹사이트를 제작하고 배포
 - 다국어, 테마 전환, 데이터 기반 UI와 스크롤 모션을 구현
+- **React Native**로 라이더·관제·상점 앱을 구성하고 배차 상태와 주문 흐름을 연동
+- 위치추적, 백그라운드 운행상태, 알림과 권한 처리등 Android 네이티브 기능을 구현
 - **Ubuntu VPS · PM2 · DNS** 환경에서 서비스를 배포하고 운영
 - **바이너리 분석 · YARA · PE 분석**을 자체 샘플로 문서화
 
@@ -45,6 +47,13 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="vite" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind css" />
+
+<h4> mobile development </h4>
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" />
 
 <h4> deployment & operations </h4>
 
@@ -86,6 +95,23 @@
     <th align="left" width="24%">Project</th>
     <th align="left" width="50%">Overview</th>
     <th align="left" width="26%">Stack</th>
+  </tr>
+
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/bongmyung-ye/delivery-dispatch-platform">
+        <b>Delivery Dispatch Platform</b>
+      </a>
+    </td>
+    <td valign="top">
+    라이더, 관제, 상점이 하나의 주문·배차 흐름을 사용할 수 있도록 구성한 배달 플랫폼 앱입니다.<br />
+    주문 접수, 배차 관리, 운행 상태 전환, 배달 진행 상황과 정산 정보를 각 앱의 역할에 맞게 구현했습니다.
+    </td>
+    <td valign="top">
+      <b>React Native</b><br />
+      TypeScript · Android<br />
+      Jest
+    </td>
   </tr>
 
   <tr>
@@ -145,9 +171,9 @@
 <h2 align="center"> / DEVELOPMENT ACTIVITY / </h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bongmyung-ye&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph&v=20260714" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bongmyung-ye&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph&v=20260718" alt="GitHub activity graph" />
 </p>
 
 ---
 
-Last Edited on: 07/14/2026
+Last Edited on: 07/18/2026
