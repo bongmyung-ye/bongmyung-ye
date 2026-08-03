@@ -107,6 +107,8 @@
       </a>
       <br />
       <a href="https://link-app.xyz">link-app.xyz</a>
+      <br />
+      <a href="https://koreanbots.dev/bots/1531394739058905241">봇 초대</a>
     </td>
     <td valign="top">
       Discord 서버의 활동 데이터를 수집하고 운영 현황을 웹 대시보드에서 관리할 수 있도록 구성한 통계·레벨링 플랫폼입니다.
