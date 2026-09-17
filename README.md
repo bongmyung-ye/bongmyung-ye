@@ -111,9 +111,9 @@
       <a href="https://koreanbots.dev/bots/1531394739058905241">봇 초대</a>
     </td>
     <td valign="top">
-      Discord 서버의 활동 데이터를 수집하고 운영 현황을 웹 대시보드에서 관리할 수 있도록 구성한 통계·레벨링 플랫폼입니다.
+      Discord 서버의 활동 데이터를 수집하고 운영 현황을 웹 대시보드에서 관리할 수 있도록 구성한 통계/레벨링 앱입니다.
       <br />
-      Discord 로그인, 서버별 관리 화면, 메시지·음성 활동 집계, 레벨 기반 역할 보상과 역할 설정 흐름을 구현했습니다.
+      Discord 로그인, 서버별 관리 화면, 메시지/음성 활동 집계, 레벨 기반 역할 보상등을 구현했습니다.
     </td>
     <td valign="top">
       <b>TypeScript</b>
@@ -131,7 +131,7 @@
       </a>
     </td>
     <td valign="top">
-      라이더, 관제, 상점이 하나의 주문·배차 흐름을 사용할 수 있도록 구성한 배달 플랫폼 앱입니다.
+      라이더, 관제, 상점이 하나의 주문/배차 상태를 사용할 수 있도록 구성한 배달 플랫폼 앱입니다.
       <br />
       주문 접수, 배차 관리, 운행 상태 전환, 배달 진행 상황과 정산 정보를 각 앱의 역할에 맞게 구현했습니다.
     </td>
@@ -146,26 +146,6 @@
 
   <tr>
     <td valign="top">
-      <a href="https://github.com/bongmyung-ye/nexora-corporate-web">
-        <b>가상 기업 넥소라 웹</b>
-      </a>
-    </td>
-    <td valign="top">
-      기업형 콘텐츠 흐름을 직접 설계한 반응형 웹사이트입니다.
-      <br />
-      다국어, 테마 전환, 투자 차트, 기술 파트너 UI와 푸터 네트워크 모션을 구현했습니다.
-    </td>
-    <td valign="top">
-      <b>React</b>
-      <br />
-      TypeScript · Vite
-      <br />
-      CSS · i18next
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top">
       <a href="https://github.com/bongmyung-ye/discord-tempvoice-app">
         <b>Discord TempVoice App</b>
       </a>
@@ -173,7 +153,7 @@
     <td valign="top">
       임시 음성 채널의 생성과 관리를 자동화하는 Discord 애플리케이션입니다.
       <br />
-      명령어, 버튼, 모달, 소유권 이전과 채널 제어 흐름을 구현했습니다.
+      명령어, 버튼, 모달, 소유권 이전과 채널 제어 구성을 구현했습니다.
     </td>
     <td valign="top">
       <b>TypeScript</b>
